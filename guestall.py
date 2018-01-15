@@ -6,5 +6,3 @@ if n==2:
         os.system('sudo apt-get install virtualbox-guest-x11 -y');
 elif n==1:
         os.system('sudo apt-get install install open-vm-tools-desktop fuse -y');
-else:
-    print "You have to select 1 or 2."
