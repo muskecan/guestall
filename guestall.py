@@ -18,7 +18,7 @@ while True:
 
 		os.system('echo "Update part is done"');
 
-	        os.system('sudo apt-get install install open-vm-tools-desktop fuse -y')
+	        os.system('sudo apt-get install open-vm-tools-desktop fuse -y')
 		break
 
 	else:
