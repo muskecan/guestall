@@ -6,7 +6,7 @@ while True:
 	
 
 	if n=="1":
-		os.system('sudo apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y');
+		os.system('sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y');
 
 		os.system('echo "Update part is done"');
 
@@ -14,7 +14,7 @@ while True:
 		break
 
 	elif n=="2":
-		os.system('sudo apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y');
+		os.system('sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y');
 
 		os.system('echo "Update part is done"');
 
